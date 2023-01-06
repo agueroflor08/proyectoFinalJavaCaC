@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+#seccionInfo {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    color:back;
+    margin: 4%;
+
+}
